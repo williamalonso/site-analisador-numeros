@@ -14,7 +14,7 @@
 
 ### 🤔 Sobre o analisador?
 
-É um pequeno exercício feito em javascript é criado um array e verificado o maior/menor valor além da soma e média total.
+É um pequeno exercício feito em javascript onde é criado um array e verificado o maior/menor valor além da soma e média total.
 
 ---
 
